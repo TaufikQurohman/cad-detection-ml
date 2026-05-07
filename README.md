@@ -213,6 +213,4 @@ jupyter notebook
 ├── cad_analysis.ipynb
 ├── README.md
 
-Nama: [Nama Kamu]
-
 Project Machine Learning - Coronary Artery Disease Detection
